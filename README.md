@@ -58,5 +58,5 @@ After running the script, enter what you want to generate a prompt for, and the 
 
 ## Contact Information
 
-- Facebook Page: https://facebook.com/your-page
-- LinkedIn Profile: https://linkedin.com/in/your-profile
+- Facebook Page: [account facebook](https://www.facebook.com/profile.php?id=100091990741824)
+- LinkedIn Profile: [linkedin](https://www.linkedin.com/in/wafaa-abuzlfh-670a15252/)
